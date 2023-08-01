@@ -29,4 +29,3 @@ jobs:
             build s3://fe-121-hamjaehyeong-s3 \
             --delete
         working-directory: ./my-agora-states-client-react/build
-
